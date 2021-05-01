@@ -2,9 +2,6 @@
 
 [![China Agricultural University College of Information and Electical Engineering](https://img.shields.io/static/v1?label=CAU&message=CIEE&color=R0-G135-B60&link=https://www.cau.edu.cn&link=http://ciee.cau.edu.cn/)](https://www.cau.edu.cn)    [![Python 3.7.6](https://img.shields.io/badge/Python-3.7.6-blue?style=flat-square&logo=python)](https://www.python.org/)    [![PyQT5 5.9.2](https://img.shields.io/badge/PyQT5-5.9.2-orange?style=flat-square)](https://pypi.org/project/PyQt5/)    ![Jieba 0.42.1](https://img.shields.io/badge/Jieba-0.42.1-orange?style=flat-square)    ![pyttsx3 2.71](https://img.shields.io/badge/pyttsx3-2.71-orange?style=flat-square)    ![Scikit-learn 0.22.1](https://img.shields.io/badge/Scikitlearn-0.22.1-orange?style=flat-square)    ![Yaml 0.1.7](https://img.shields.io/badge/Yaml-0.1.7-orange?style=flat-square)    [![Numpy 1.18.1](https://img.shields.io/badge/Numpy-1.18.1-orange?style=flat-square)](http://pyecharts.org/)    ![Pandas 1.0.1](https://img.shields.io/badge/Pandas-1.0.1-orange?style=flat-square)
 
-[TOC]
-
-<撰稿人：贾云嵩>
 
 
 
