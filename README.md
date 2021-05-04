@@ -24,7 +24,7 @@
 * 苏晗宇：SightseeingManager.py、智能问答页面模块编写、智能问答和精准调度和信息管理页面UI设计
 * 李一鸣：GraphManager.py、FAQRobot.py、精准调度页面UI设计
 * 李中昊：GraphManager.py、主窗口及景点导览页面UI设计
-* 贾云嵩：QueryLogManager.py、SightseeingManager.py、GraphEdges.py、FAQRobot.py及界面的设计与响应编写
+* 贾云嵩：QueryLogManager.py、SightseeingManager.py、FAQRobot.py及界面的设计与响应编写
 
 
 
